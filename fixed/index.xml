@@ -39,11 +39,11 @@
       <guid>http://pokhari.github.io/colophon/</guid>
       <description>&lt;p&gt;This website is a personal homepage.&lt;/p&gt;
 
-&lt;p&gt;The site is built with &lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt;—a static site generator made with Go. The website &lt;a href=&#34;http://pokhari.github.io/&#34;&gt;source code&lt;/a&gt; is available on GitHub. It uses the &lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;//github.com/nishanths/cocoa-hugo-theme&#34;&gt;cocoa&lt;/a&gt; theme. The posts are written in Markdown.&lt;/p&gt;
+&lt;p&gt;The site is built with &lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt;—a static site generator made with Go. The website &lt;a href=&#34;../&#34;&gt;source code&lt;/a&gt; is available on GitHub. It uses the &lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;//github.com/nishanths/cocoa-hugo-theme&#34;&gt;cocoa&lt;/a&gt; theme. The posts are written in Markdown.&lt;/p&gt;
 
 &lt;p&gt;The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.&lt;/p&gt;
 
-&lt;p&gt;If you find errors, &lt;a href=&#34;http://pokhari.github.io/&#34;&gt;please let me know&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you find errors, &lt;a href=&#34;../&#34;&gt;please let me know&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
