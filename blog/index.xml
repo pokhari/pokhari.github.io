@@ -2,12 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Pokhari.com</title>
-    <link>http://pokhari.github.io/blog/index.xml</link>
+    <link>http://pokhari.github.io/blog/</link>
     <description>Recent content in Blog on Pokhari.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Dec 2015 04:05:25 -0600</lastBuildDate>
-    <atom:link href="http://pokhari.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pokhari.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Study Ecology in Norway</title>
+      <link>http://pokhari.github.io/blog/study-ecology-in-norway/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://pokhari.github.io/blog/study-ecology-in-norway/</guid>
+      <description>University of Oslo Biodiversity and Systematics (master&amp;rsquo;s two years):
+Norwegian University of Life Sciences Master of Science in Ecology
+Master of Science in Agroecology
+Norwegian University of Science and Technology Industrial Ecology
+Inland Norway University of Applied Sciences Master in Applied Ecology
+University of Bergen Biodiversity, Evolution and Ecology</description>
+    </item>
     
     <item>
       <title>Combine separate odd and even PDF files in Mac</title>
@@ -15,26 +31,8 @@
       <pubDate>Mon, 21 Dec 2015 04:05:25 -0600</pubDate>
       
       <guid>http://pokhari.github.io/blog/combine-separate-odd-even-pdf-files-in-mac/</guid>
-      <description>&lt;p&gt;Sometimes it is necessary to combine two PDF files one with only even pages and one with only odd pages. Mac Automator can do this task very easily. Just make your PDF files ready and follow the following steps:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Open Automator&lt;/strong&gt;&lt;/br&gt;
-Automator is shipped with any Mac. It has many awesome feature that can save your precious time at many occasions. For this task, first open Automator either from application launchpad or from spotlight light search or from application folder.
-&lt;img src=&#34;../img/AutomatorScreenshot-1.png&#34; alt=&#34;Automator Start&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Create new workflow&lt;/strong&gt;&lt;/br&gt;
-There are various options when you first open automator, choose workflow. It will let you to a blank window with lots of tasks on right hand side of the frame. Find a task to &amp;ldquo;Combine PDF pages&amp;rdquo;. You can also use search option on the top of the task list. Drag the task on the blank space on right hand side. To stack multiple PDF just choose &amp;ldquo;Appending Pages&amp;rdquo;. In this case we are shuffling two files together, so choose &amp;ldquo;Shuffling Pages&amp;rdquo;.
-&lt;img src=&#34;../img/AutomatorScreenshot-2.png&#34; alt=&#34;Automator initial screen&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drag your PDF files on Automator&lt;/strong&gt;&lt;/br&gt;
-Now its time to choose the pdf files you are shuffling together. Drag both the files on top of the previously dragged task. So that when you run the complete workflow, the automator will read those files and then perform the PDF shuffling task.
-&lt;img src=&#34;../img/AutomatorScreenshot-3.png&#34; alt=&#34;Automator PDF combine&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Run the Automator and Get the result&lt;/strong&gt;&lt;/br&gt;
-On the top right corner of Automator, you will find a play button. This will run the whole workflow process, i.e. get the PDF files and combine them together. You will find the output PDF in the &amp;ldquo;result tab&amp;rdquo; at the bottom of &amp;ldquo;Combine PDF pages&amp;rdquo; task.
-&lt;img src=&#34;../img/AutomatorScreenshot-4.png&#34; alt=&#34;Automator PDF Combine&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Save you output file somewhere and enjoy!&lt;/p&gt;
-</description>
+      <description>Sometimes it is necessary to combine two PDF files one with only even pages and one with only odd pages. Mac Automator can do this task very easily. Just make your PDF files ready and follow the following steps:
+Open Automator Automator is shipped with any Mac. It has many awesome feature that can save your precious time at many occasions. For this task, first open Automator either from application launchpad or from spotlight light search or from application folder.</description>
     </item>
     
   </channel>

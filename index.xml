@@ -2,12 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pokhari.com</title>
-    <link>http://pokhari.github.io/index.xml</link>
+    <link>http://pokhari.github.io/</link>
     <description>Recent content on Pokhari.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Dec 2015 04:05:25 -0600</lastBuildDate>
-    <atom:link href="http://pokhari.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://pokhari.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Study Ecology in Norway</title>
+      <link>http://pokhari.github.io/blog/study-ecology-in-norway/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://pokhari.github.io/blog/study-ecology-in-norway/</guid>
+      <description>University of Oslo Biodiversity and Systematics (master&amp;rsquo;s two years):
+Norwegian University of Life Sciences Master of Science in Ecology
+Master of Science in Agroecology
+Norwegian University of Science and Technology Industrial Ecology
+Inland Norway University of Applied Sciences Master in Applied Ecology
+University of Bergen Biodiversity, Evolution and Ecology</description>
+    </item>
     
     <item>
       <title>Combine separate odd and even PDF files in Mac</title>
@@ -15,26 +31,8 @@
       <pubDate>Mon, 21 Dec 2015 04:05:25 -0600</pubDate>
       
       <guid>http://pokhari.github.io/blog/combine-separate-odd-even-pdf-files-in-mac/</guid>
-      <description>&lt;p&gt;Sometimes it is necessary to combine two PDF files one with only even pages and one with only odd pages. Mac Automator can do this task very easily. Just make your PDF files ready and follow the following steps:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Open Automator&lt;/strong&gt;&lt;/br&gt;
-Automator is shipped with any Mac. It has many awesome feature that can save your precious time at many occasions. For this task, first open Automator either from application launchpad or from spotlight light search or from application folder.
-&lt;img src=&#34;./img/AutomatorScreenshot-1.png&#34; alt=&#34;Automator Start&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Create new workflow&lt;/strong&gt;&lt;/br&gt;
-There are various options when you first open automator, choose workflow. It will let you to a blank window with lots of tasks on right hand side of the frame. Find a task to &amp;ldquo;Combine PDF pages&amp;rdquo;. You can also use search option on the top of the task list. Drag the task on the blank space on right hand side. To stack multiple PDF just choose &amp;ldquo;Appending Pages&amp;rdquo;. In this case we are shuffling two files together, so choose &amp;ldquo;Shuffling Pages&amp;rdquo;.
-&lt;img src=&#34;./img/AutomatorScreenshot-2.png&#34; alt=&#34;Automator initial screen&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drag your PDF files on Automator&lt;/strong&gt;&lt;/br&gt;
-Now its time to choose the pdf files you are shuffling together. Drag both the files on top of the previously dragged task. So that when you run the complete workflow, the automator will read those files and then perform the PDF shuffling task.
-&lt;img src=&#34;./img/AutomatorScreenshot-3.png&#34; alt=&#34;Automator PDF combine&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Run the Automator and Get the result&lt;/strong&gt;&lt;/br&gt;
-On the top right corner of Automator, you will find a play button. This will run the whole workflow process, i.e. get the PDF files and combine them together. You will find the output PDF in the &amp;ldquo;result tab&amp;rdquo; at the bottom of &amp;ldquo;Combine PDF pages&amp;rdquo; task.
-&lt;img src=&#34;./img/AutomatorScreenshot-4.png&#34; alt=&#34;Automator PDF Combine&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Save you output file somewhere and enjoy!&lt;/p&gt;
-</description>
+      <description>Sometimes it is necessary to combine two PDF files one with only even pages and one with only odd pages. Mac Automator can do this task very easily. Just make your PDF files ready and follow the following steps:
+Open Automator Automator is shipped with any Mac. It has many awesome feature that can save your precious time at many occasions. For this task, first open Automator either from application launchpad or from spotlight light search or from application folder.</description>
     </item>
     
     <item>
@@ -43,20 +41,9 @@ On the top right corner of Automator, you will find a play button. This will run
       <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
       
       <guid>http://pokhari.github.io/about/</guid>
-      <description>&lt;p&gt;Along with &lt;a href=&#34;https://en.wikipedia.org/wiki/Ford_Prefect_(character)&#34;&gt;Ford Prefect&lt;/a&gt;, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a &lt;em&gt;hyperspace bypass&lt;/em&gt;. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In time, he learns how to fly and carves a niche for himself as a sandwich-maker.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;//placehold.it/300x300&#34; class=&#34;profile&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;colophon/&#34;&gt;About this site&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.
+ He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.
+ In time, he learns how to fly and carves a niche for himself as a sandwich-maker.</description>
     </item>
     
     <item>
@@ -65,14 +52,9 @@ On the top right corner of Automator, you will find a play button. This will run
       <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
       
       <guid>http://pokhari.github.io/colophon/</guid>
-      <description>&lt;p&gt;This website is a personal homepage.&lt;/p&gt;
-
-&lt;p&gt;The site is built with &lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt;—a static site generator made with Go. The website &lt;a href=&#34;./&#34;&gt;source code&lt;/a&gt; is available on GitHub. It uses the &lt;a target=&#34;_blank&#34; rel=&#34;noopener&#34; href=&#34;//github.com/nishanths/cocoa-hugo-theme&#34;&gt;cocoa&lt;/a&gt; theme. The posts are written in Markdown.&lt;/p&gt;
-
-&lt;p&gt;The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.&lt;/p&gt;
-
-&lt;p&gt;If you find errors, &lt;a href=&#34;./&#34;&gt;please let me know&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>This website is a personal homepage.
+The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
+The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
     </item>
     
     <item>
@@ -81,14 +63,7 @@ On the top right corner of Automator, you will find a play button. This will run
       <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
       
       <guid>http://pokhari.github.io/code/</guid>
-      <description>
-
-&lt;p&gt;The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by &lt;a href=&#34;https://en.wikipedia.org/wiki/Douglas_Adams&#34;&gt;Douglas Adams&lt;/a&gt;. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eoin_Colfer&#34;&gt;Eoin Colfer&lt;/a&gt; in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996. There were also two series of towels, produced by Beer-Davies, that are considered by some fans to be an &amp;ldquo;official version&amp;rdquo; of The Hitchhiker&amp;rsquo;s Guide to the Galaxy, as they include text from the first novel.&lt;/p&gt;
-
-&lt;h3 id=&#34;movie&#34;&gt;Movie&lt;/h3&gt;
-
-&lt;p&gt;A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005. Adams did many of these adaptations, including the novels, the TV series, the computer game, and the earliest drafts of the Hollywood film’s screenplay, and some of the stage shows introduced new material written by Adams.&lt;/p&gt;
-</description>
+      <description>The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by Eoin Colfer in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996.</description>
     </item>
     
     <item>
