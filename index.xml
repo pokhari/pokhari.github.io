@@ -6,10 +6,19 @@
     <description>Recent content on Pokhari.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Dec 2018 22:53:00 +0100</lastBuildDate>
     
 	<atom:link href="https://pokhari.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Have a sushi with Ubuntu</title>
+      <link>https://pokhari.github.io/blog/have-a-sushi-with-ubuntu/</link>
+      <pubDate>Wed, 12 Dec 2018 22:53:00 +0100</pubDate>
+      
+      <guid>https://pokhari.github.io/blog/have-a-sushi-with-ubuntu/</guid>
+      <description>If you love quick preview feature in MacOS and you are missing that in your ubuntu, have a sushi and you will be satisfied. Even if you are not a MacOS user, you will get so used to with sushi that you will never get satisfied. You might be thinking what I am babbling about. I am talking about a quick preview of most of the popular file in ubuntu that is provided by gnome-sushi.</description>
+    </item>
     
     <item>
       <title>Study Ecology in Norway</title>
@@ -68,15 +77,6 @@ The primary font face is Open Sans and the monospace font face is Ubuntu Mono. T
       
       <guid>https://pokhari.github.io/about/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Have a sushi with Ubuntu</title>
-      <link>https://pokhari.github.io/blog/have-a-sushi-with-ubuntu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pokhari.github.io/blog/have-a-sushi-with-ubuntu/</guid>
-      <description>If you love quick preview feature in MacOS and you are missing that in your ubuntu, have a sushi and you will be satisfied. Even if you are not a MacOS user, you will get so used to with sushi that you will never get satisfied. You might be thinking what I am babbling about. I am talking about a quick preview of most of the popular file in ubuntu that is provided by gnome-sushi.</description>
     </item>
     
     <item>
